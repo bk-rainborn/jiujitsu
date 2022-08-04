@@ -19,22 +19,24 @@ position: absolute;
 
 ul li {
 float: left;
-margin-top: 20px;
+margin-top: 20px
 }
 
 ul li a{
     width: 150px;
     color: white;
     display: block;
-    text-decoration: none;
+    text-decoration: none; 
     font-size: 20px;
     text-align: center;
     padding: 10px;
     border-radius: 10px;
     font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+    }
+
+a:hover{ background: red
 }
 
-a:hover{ background: red}
 
 ul li ul{
     background: #000033;
@@ -50,6 +52,8 @@ ul li ul{
 
 ul li:hover ul{
     display: block;
+    border-radius: 10px;
+
 }
 
 
