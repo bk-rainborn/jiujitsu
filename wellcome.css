@@ -1,12 +1,12 @@
 body{
     margin: 0;
-    height: 2000px;}
+    height: 1000px;}
 
 section{
     height: 800px;
     background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg ) fixed ;
     background-size: cover;
-    resize: both;
-    overflow: scroll;
+    
+text-align: center;    
 }
 h1{font-size: 7em;}
