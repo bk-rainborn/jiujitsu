@@ -7,6 +7,14 @@ section{
     background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg ) fixed ;
     background-size: cover;
     
-text-align: center;    
+        
 }
-h1{font-size: 7em;}
+
+h1{font-size: 7em;
+    text-align: center;
+position: absolute
+
+
+
+}
+
