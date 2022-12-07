@@ -1,3 +1,6 @@
-const tooglebtn = document.querySelector ('.navbar_tooglebtn');
-const menu = document.querySelector('.navbar_menu');
-const icons = document.querySelector('.navbar_icons');
+let maintext = document.querySelector("h1")
+
+window.addEventListener('scroll',function(){
+    let value = window.scrollY
+    console.log("scrolly", value);
+})
