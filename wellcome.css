@@ -58,8 +58,9 @@ right: 200px;
 
 
 #s2{
+    margin: 0;
     height: 800px;
-    background: url(://www.grapplearts.com/wp-content/uploads/2015/05/Standard-half-gi-UH-triangl.jpg;) fixed ;
+    background: url(https://www.grapplearts.com/wp-content/uploads/2015/05/Standard-half-gi-UH-triangl.jpg;) fixed ;
     background-size: cover;
     
 }
