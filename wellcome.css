@@ -1,9 +1,9 @@
 body{
     margin: 0;
-    height: 1000px;}
+    height: 800px;}
 
 #s1{
-    height: 800px;
+    height: 400px;
     background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg ) fixed ;
     background-size: cover;
     
@@ -29,7 +29,7 @@ animation: slide 1s ease-out;
 right: 200px;
 }
 .lineUp {
-    animation: 4s anim-lineUp ease-out infinite; 
+    animation: 3s anim-lineUp ease-out infinite; 
     
     }
   @keyframes anim-lineUp {
