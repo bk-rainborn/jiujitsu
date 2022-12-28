@@ -1,6 +1,11 @@
 body{
     margin: 0;
-    height: 800px;}
+    height: 800px;
+
+
+
+   
+}
 
 #s1{
     height: 400px;
@@ -59,15 +64,18 @@ right: 200px;
 
 #s2{
     margin: 0;
-    height: 800px;
-    background: url(https://www.grapplearts.com/wp-content/uploads/2015/05/Standard-half-gi-UH-triangl.jpg;) fixed ;
+    height: 700px;
+    background: url(https://bjjbuddy.com/wp-content/uploads/2019/07/closed-guard-bjj-judo.jpg) ;
     background-size: cover;
+    
+    
     
 }
 .nav{
     width: 100%;
     background: #000033;
     height: 50px;
+    
     
     }
     
@@ -85,12 +93,13 @@ right: 200px;
     }
     
     ul li a{
-        width: 150px;
+      
+      text-align: center;  
+      width: 150px;
         color: white;
         display: block;
         text-decoration: none; 
         font-size: 20px;
-        text-align: center;
         padding: 1px;
         font-family:century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
         }
